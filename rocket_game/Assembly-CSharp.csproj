@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Oscillator.cs" />
     <Compile Include="Assets\Rocket.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/williansnieves/Documents/unitygames/rocket_game/rocket_game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

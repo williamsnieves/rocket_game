@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{AA3B2040-DF2F-0FD3-9CFE-E79C507EE67F}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Rocket.cs">
     <Files>
-      <File FileName="Assets/Rocket.cs" Line="40" Column="31" />
+      <File FileName="Assets/Rocket.cs" Line="127" Column="76" />
+      <File FileName="Assets/Oscillator.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a82f0f79-c4e7-4472-92c6-ffb7f068352a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1b3df91-a25e-467e-b8f7-6b01e43caa99" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
